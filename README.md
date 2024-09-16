@@ -26,7 +26,7 @@ Using Linear Regression, we’ve built a model that captures the sentiment behin
 
 ## 🚀 How to Run the Project
 ```
-git clone https://github.com/your-username/twitter-sentiment-analysis.git
+git clone https://github.com/Vedant3000/Twitter-Sentiment-Analysis-using-Machine-Learning.git
 ```
 Install Dependencies
 ```
